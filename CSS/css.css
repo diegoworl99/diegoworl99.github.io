@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(37, 35, 35);
+    color:whitesmoke;
+}
+a{
+    text-decoration: none;
+    color:whitesmoke;
+   /* border: 5px;
+    border-style: dashed;
+    border-color: blueviolet;*/
+}
